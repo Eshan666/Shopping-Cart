@@ -64,5 +64,6 @@
         "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
       }
     }
+    
   ]
 }
